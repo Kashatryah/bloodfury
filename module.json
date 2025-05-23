@@ -1,0 +1,79 @@
+{
+  "id": "bloodfury-barbarian-pf2e",
+  "title": "Bloodfury Barbarian PF2e",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Aclethos",
+      "discord": "Aclethos",
+      "flags": {}
+    },
+    {
+      "name": "Mark Clark",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "bloodfury-barbarian-features",
+      "label": "Bloodfury Barbarian Features",
+      "path": "packs/bloodfury-barbarian-features",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "bloodfury-barbarian-actions",
+      "label": "Bloodfury Barbarian Actions",
+      "path": "packs/bloodfury-barbarian-actions",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "bloodfury-barbarian-feats",
+      "label": "Bloodfury Barbarian Feats",
+      "path": "packs/bloodfury-barbarian-feats",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+{
+      "name": "bloodfury-barbarian-effects",
+      "label": "Bloodfury Barbarian Effects",
+      "path": "packs/bloodfury-barbarian-effects",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ]
+}
