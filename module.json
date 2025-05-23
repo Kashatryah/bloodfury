@@ -2,8 +2,8 @@
   "id": "bloodfury-barbarian-pf2e",
   "title": "Bloodfury Barbarian PF2e",
   "version": "1.0.0",
-  "download": "https://github.com/Kashatryah/bloodfury/master.zip"
-  "manifest": "raw.githubusercontent.com/Kashatryah/bloodfury/master/module.json"
+  "download": "https://github.com/Kashatryah/bloodfury.zip"
+  "manifest": "raw.githubusercontent.com/Kashatryah/bloodfury/module.json"
   "compatibility": {
     "minimum": "12",
     "verified": "12"
