@@ -3,7 +3,7 @@
   "title": "Bloodfury Barbarian PF2e",
   "version": "1.0.0",
   "download": "https://github.com/Kashatryah/bloodfury/bloodfury-PF2e.zip"
-  "manifest": "https://github.com/Kashatryah/bloodfury/bloodfury-PF2e.zip"
+  "manifest": "https://github.com/Kashatryah/bloodfury/module.json"
   "compatibility": {
     "minimum": "12",
     "verified": "12"
